@@ -10,11 +10,11 @@ import javax.mail.internet.MimeMessage;
 public class GmailSMTPDemo {
     public static void main(String[] args) {
         // Sender's email credentials
-        final String username = "hastatushki2003@gmail.com";
-        final String password = "bsis sdof srhz tdgm";
+        final String username = "demo";
+        final String password = "demo";
 
         // Recipient's email address
-        String toEmail = "elson.blr@gmail.com";
+        String toEmail = "demo@gmail.com";
 
         // SMTP server properties for Gmail
         Properties props = new Properties();
